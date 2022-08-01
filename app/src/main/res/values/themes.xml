@@ -1,0 +1,7 @@
+<resources>
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    <style name="Theme.Tetris" parent="Theme.AppCompat.DayNight.NoActionBar">
+        <item name="android:windowLightStatusBar">true</item>
+        <item name="android:statusBarColor" >@color/app_bg</item>
+    </style>
+</resources>
